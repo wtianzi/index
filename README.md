@@ -14,7 +14,7 @@ The repository include research projects and course projects.
 #Gallery
 
 ## ARVirtualCampus
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(1).png)
+![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(1).gif)
 ![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(2).gif)
 
 ## SAR Web User Interface Demo [GitHub Pages](https://github.com/wtianzi/SARWeb)
