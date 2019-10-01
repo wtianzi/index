@@ -10,8 +10,9 @@ The repository include research projects and course projects.
 	- CV parsing
 
 
+#Gallery
 
-# SAR Web User Interface Demo [GitHub Pages](https://github.com/wtianzi/SARWeb)
-![Web interface](https://github.com/wtianzi/SARWeb/blob/master/screen/screen1.png)
+## SAR Web User Interface Demo [GitHub Pages](https://github.com/wtianzi/SARWeb)
+![Web interface](https://github.com/wtianzi/SARWeb/blob/watershed/screen/step6_assign_teams.png)
 ![geojsonLayer](https://github.com/wtianzi/SARWeb/blob/master/screen/heatmap_esri.png)
 [more examples](https://github.com/wtianzi/SARWeb/blob/master/screen/)
