@@ -16,19 +16,8 @@ The repository include research projects and course projects.
 ## ARVirtualCampus
 
 Video (click to view): 
-[![Campus bird's eye view](/example/campus.png)](https://youtu.be/UaWrcQppyvY)
-
-Bird's eye view of three buildings.
-
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/campus.png)
+[![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(1).png)](https://youtu.be/UaWrcQppyvY)
 ![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(2).gif)
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy.gif)
-
-Close view of different interaction options.
-
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/text_and_ball.png |width=100)
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/Pin_and_billboard.png =250x250)
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/Flash_and_button.png =100x100)
 
 ## SAR Web User Interface Demo [GitHub Pages](https://github.com/wtianzi/SARWeb)
 ![Web interface](https://github.com/wtianzi/SARWeb/blob/watershed/screen/step6_assign_teams.png)
