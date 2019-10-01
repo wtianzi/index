@@ -5,7 +5,7 @@ The repository include research projects and course projects.
 	- AR virtual campus [Github page](https://github.com/wtianzi/ARVirtualCampus).
 
 - Web-based Interface
-	- Interface of unmaned vehicle and human collaboration for search & rescue tasks [GitHub Pages](https://github.com/wtianzi/SARWeb).
+	- Interface of unmaned vehicle and human collaboration for search & rescue tasks [GitHub Pages](https://github.com/wtianzi/SARWeb/tree/watershed).
 
 - Others
 	- CV parsing
