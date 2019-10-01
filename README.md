@@ -1,12 +1,13 @@
 # Projects index
 The repository include research projects and course projects.
 - Virtual Reality
--- 
+	- Episodic future thinking 
+
 - Web-based Interface
--- Interface of unmaned vehicle and human collaboration for search & rescue tasks [GitHub Pages](https://github.com/wtianzi/SARWeb).
+	- Interface of unmaned vehicle and human collaboration for search & rescue tasks [GitHub Pages](https://github.com/wtianzi/SARWeb).
 
 - Others
--- CV parsing
+	- CV parsing
 
 
 
