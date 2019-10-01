@@ -27,8 +27,8 @@ Bird's eye view of three buildings.
 Close view of different interaction options.
 
 ![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/text_and_ball.png |width=100)
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/Pin_and_billboard.png =100)
-![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/Flash_and_button.png =100)
+![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/Pin_and_billboard.png =250x250)
+![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/Flash_and_button.png =100x100)
 
 ## SAR Web User Interface Demo [GitHub Pages](https://github.com/wtianzi/SARWeb)
 ![Web interface](https://github.com/wtianzi/SARWeb/blob/watershed/screen/step6_assign_teams.png)
