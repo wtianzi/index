@@ -7,7 +7,7 @@ The repository include research projects and course projects.
 - Web-based Interface
 	- Interface of unmaned vehicle and human collaboration for search & rescue tasks: django, javascript, python, opencv,html [GitHub Pages](https://github.com/wtianzi/SARWeb/tree/watershed).
 
-- .Net Application
+- .Net Applications
 	- Virtual Coach for laparoscopic surgery training: eyetracker, empatica sensors, leapmotion, multi-camera, thermal camera [GitHub Pages](https://github.com/wtianzi/VirtualCoach_Multicam).
 
 
@@ -27,4 +27,4 @@ The repository include research projects and course projects.
 [more examples](https://github.com/wtianzi/SARWeb/blob/master/screen/)
 
 ## Virtual Coach for laparoscopic surgery training
-
+![maininterface](https://github.com/wtianzi/VirtualCoach_Multicam/blob/master/screen/mainwindow.png)
