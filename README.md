@@ -29,7 +29,7 @@ The repository include research projects and course projects.
 ## Virtual Coach for laparoscopic surgery training
 ![maininterface](https://github.com/wtianzi/VirtualCoach_Multicam/blob/master/screen/mainwindow.png)
 
-## VR Heathcare[Github page](https://github.com/wtianzi/AutonoeticStudy).
+## VR Heathcare [Github page](https://github.com/wtianzi/AutonoeticStudy).
 ### Scenes
 ![](https://github.com/wtianzi/AutonoeticStudy/blob/master/2017-06-02_173100/beach.gif)
 ![](https://github.com/wtianzi/AutonoeticStudy/blob/master/2017-06-02_173100/island.gif)	
