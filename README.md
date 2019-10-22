@@ -13,6 +13,7 @@ The repository include research projects and course projects.
 
 - Others
 	- CV parsing: python
+	- Heatmap of eyetracking data for laparoscopic videos: python
 
 
 #Gallery
